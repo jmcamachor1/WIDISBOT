@@ -22,12 +22,12 @@ conda activate {env_name}
 
 And install the necesary requirements.
 ```
-conda activate {env_name}
+conda install --file requirements.txt
 ```
 
 Start the app via
 ```
-conda install --file requirements.txt
+streamlit Data_loading.py
 ```
 
 ## Tools
