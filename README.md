@@ -68,7 +68,7 @@ Allows the use of previous tools centered on the account using a specific hashta
 
 ## Important notes
 
-- WIDISBOT is intended for academic research purposes only and excludes community use.
+- WIDISBOT is intended for academic research purposes only, excluding commercial use.
 
 - It can utilize tweets extracted through both Twitter API v1.1 and Twitter API V2, with various access options available (Basic, Pro, Enterprise, Academic). The application is subject to Twitter's rate limits and policy.
 
