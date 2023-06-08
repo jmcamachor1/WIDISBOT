@@ -54,7 +54,7 @@ Given a list of tweets gives distribution of the sentiment behind those produced
 
 Visualization of most used hashtags by a bots and human accounts given a list of tweets.
 
-- Wordlcoud
+- Wordcloud
 
 Visualization of most used words by a bots and human accounts given a list of tweets.
 
