@@ -27,7 +27,7 @@ conda install --file requirements.txt
 
 Start the app via
 ```
-streamlit Data_loading.py
+streamlit run Data_loading.py
 ```
 
 ## Tools
