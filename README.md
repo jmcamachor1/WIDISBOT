@@ -8,7 +8,7 @@ This app makes use of two models. The model used depends on the version of the i
 
 ## Use
 
-In order to use this app it is needed to prepare a suitable python environment. Follow the next steps to install it using a conda environment.
+In order to use this app it is needed to prepare a suitable Python environment. Follow the next steps to install it using a conda environment.
 
 In the Anaconda Terminal (or Linux and Mac Terminal). Initialize a new environment:
 ```
