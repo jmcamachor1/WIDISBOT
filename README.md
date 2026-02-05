@@ -1,6 +1,9 @@
 # WIDISBOT
 
-This is the code for the tools presented in the published paper: __WIDISBOT: Widget to analyse disinformation and content spread by bots__. 
+This is the code for the tools presented in the published paper: 
+
+__Camacho, J. M., Perez-Miguel, L., & Arroyo, D. (2023, September). WIDISBOT: Widget to analyse disinformation and content spread by bots. In Proceedings of the 4th Conference on Language, Data and Knowledge (pp. 514-519).__
+
 
 ## Model
 
